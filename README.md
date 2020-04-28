@@ -1,3 +1,4 @@
+![](screenshot/magicballApp-screenshot.jpeg)
 # magicball
 
 A new Flutter application.
